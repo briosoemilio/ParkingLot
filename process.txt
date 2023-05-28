@@ -1,0 +1,6 @@
+1.) Get Number of Entrance (3 to 5 only)
+2.) Navigate to map view
+  2.1) Add a vehicle screen
+  2.2) View a parking slot screen
+    2.2.1) Car leave
+  2.3) 
